@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{9B159701-A700-4F38-A501-A2126DFF8D24}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotNetUIFormPractice" expanded="True">
+            <Node name="DotNetUIFormPractice" expanded="True">
+              <Node name="Pages" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DotNetUIFormPractice FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
